@@ -1,3 +1,4 @@
+Wasn't sure the best way to link this hope this works for the assignment
 
 def display_results(weathers,city):
    print("{}'s temperature: {}°C ".format(city,weathers['main']['temp']))
